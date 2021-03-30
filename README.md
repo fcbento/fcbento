@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe C. Bento</h1>
-<h3 align="center">A quite passionate Full Stack Developer from Brazil. And a soon-to-be father :family: :baby:</h3>
+<h3 align="center">A quite passionate Web Developer from Brazil. And a soon-to-be father :family: :baby:</h3>
 
 - 🌱 Currently learning **Java, Spring Framework, Database**
 
