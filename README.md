@@ -4,10 +4,10 @@
 - 📫 How to reach me **felipe.16costa@gmail.com**
 
 ## About 
-Greetings. I'm Felipe from Brazil and I have worked as a Software Developer for the past 3 years focused both on Front-End and Back-End development. Currently, working as a Front-End developer using Angular, framework that I'm rather fond of and have learned quite a lot so far.
+Greetings! I'm Felipe from Brazil and I have worked as a Software Developer for the past 3 years now. I am currently employed as a Front-End developer using Angular on a microservices based application that uses Java/Spring Boot. 
 
-I've been also exploring some Svelte as well as React and React Native for mobile stuff.
+I've been lately also exploring Svelte which by the way happens to be pretty cool and a bit of React as well. React Native for mobile apps is on my radar too and I actually created a small project here using it. From time to time I play with Node/Express and MongoDB and I usually tend to create my APIs based on that stack.
 
-I usually relax by watching movies / tv shows :movie_camera: and listening to some music :musical_note:. Also pretty keen on  games :video_game:.
+I usually chill out by watching movies / tv shows and listening to some rock/metal music. Travelling when it's possible is something that me and my family definitely love doing. Also pretty keen on games.
 
-Reach me anytime !
+Feedback is always welcome and feel free to reach me out anytime :)
