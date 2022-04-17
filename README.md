@@ -11,6 +11,7 @@ I've been also lately exploring Svelte which by the way happens to be pretty coo
 I usually chill out by watching movies/tv shows and listening to some rock music. Travelling when it's possible is something that me and my family definitely love doing too. Also pretty keen on games.
 
 Some of the stuff that I do for fun, you can check down below.
+
 https://linktr.ee/fcbento
 
 Feedback is always welcome and feel free to reach me out anytime :)
