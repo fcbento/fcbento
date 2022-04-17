@@ -12,6 +12,9 @@ I usually chill out by watching movies/tv shows and listening to some rock music
 
 Some of the stuff that I do for fun, you can check down below.
 
-https://linktr.ee/fcbento
+[Linktree](https://linktr.ee/fcbento)
+[Instagram](https://instagram.com/flpotv/)
+[LinkedIn](https://linkedin.com/in/felipe-bento/)
+
 
 Feedback is always welcome. Feel free to reach me out anytime :)
