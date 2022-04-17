@@ -11,9 +11,7 @@ Been also exploring Svelte which by the way happens to be pretty cool. React Nat
 I usually chill out by watching movies/tv shows and listening to some rock music. Travelling when it's possible is something that me and my family definitely love doing too. Also pretty keen on games.
 
 [Linktree](https://linktr.ee/fcbento)
-
 [Instagram](https://instagram.com/flpotv/)
-
 [LinkedIn](https://linkedin.com/in/felipe-bento/)
 
 
