@@ -14,4 +14,4 @@ Some of the stuff that I do for fun, you can check down below.
 
 https://linktr.ee/fcbento
 
-Feedback is always welcome and feel free to reach me out anytime :)
+Feedback is always welcome. Feel free to reach me out anytime :)
