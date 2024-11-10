@@ -10,9 +10,15 @@ In my free time, I usually chill out by watching movies, tv shows and listening 
 I'm a husband and father of two little boys!
 
 Feel free to reach me out anytime. You can always find out more about me down below.
+<hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,angular,react,svelte,typescript,nodejs,express,nestjs,rxjs,npm,yarn,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,angular,react,svelte,typescript,rxjs,jest,nodejs,express,nestjs,mysql,npm,vscode,firebase,git)
+
+<hr>
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bento)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/flp.bento)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/413141379074490369)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:felipe.16costa@gmail.com)
 
 [Linktree](https://linktr.ee/fcbento)
-[LinkedIn](https://linkedin.com/in/felipe-bento/)
-**felipe.16costa@gmail.com**
